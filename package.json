@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/Distraits/frank-test#readme",
   "dependencies": {
-    "vue": "^3.2.37"
+    "vue": "^2.7.8"
   }
 }
